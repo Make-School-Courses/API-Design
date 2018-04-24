@@ -29,23 +29,22 @@ The web is becoming ever more JavaScripty. Initially the red-headed stepchild of
 
 ## Lessons
 
-1. How this curriculum works. Paradigm-based. Best Practices - Review Competencies - Web Server & Web Framework
-1. REST, URLs, HTTP(S) - Giphy Search App Tutorial
-1. Errors and Debugging - Review of Giphy App Solution - Commenting pseudocode for each step
-1. RESTful & Resourceful Routing (naming conventions for paths, variables, methods) - Start Project Portfolio Tutorial
+1. Introduction - Web Server & Web Framework - Start Giphy Search App Tutorial
+1. Review of Giphy App Solution - REST, URLs, HTTP(S)
+
+1. RESTful & Resourceful Routing (naming conventions for paths, variables, methods) - Start Rotten Tomatoes
+1. Errors and Debugging - Resourceful Quiz I
+
 1. Document-based Databases, MongoDB Command Line, & RESTful Routing - Index
-1. RESTful Routing - New, Create - demo and work time
-1. Product Planning - User Narratives, Wireframes, Entity Relationship Diagram (ERD)
+1. RESTful Routing - New, Create - Resourceful Quiz II
+
 1. RESTful Routing - Edit, Update, Delete - demo and work time, [Express Middleware](https://expressjs.com/en/guide/writing-middleware.html)
-1. People's Choice Day - Promises? Moment.js? dotenv?
-1. Testing RESTful Routes - Final date to Pick Projects
+1. Testing RESTful Routes - Resourceful Quiz III
+
 1. RESTful APIs & Service Oriented Architecture
 1. Bootstrap - the Grid, Typography, Forms, and Buttons
-1. People's Choice Day
+
 1. Deploy to Heroku - start custom project work
-1. Project Work & Code Reviews
-1. Project Work & Code Reviews
-1. Project Work & Code Reviews
 1. Project Presentations
 
 ## Projects
